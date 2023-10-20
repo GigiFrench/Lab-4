@@ -1,0 +1,53 @@
+style.css
+/* styles.css */
+
+/* Task 1: Styling the table */
+table {
+    border: 2px solid black;
+    border-collapse: collapse;
+    width: 100%;
+    margin: 100px;
+}
+
+th {
+    background-color: rgb(109, 106, 106);
+    border: 2px solid black;
+    padding: 10px;
+}
+
+td {
+    border: 2px solid black;
+    padding: 10px;
+}
+p {
+    text-decoration-line:underline;
+
+        text-transform: uppercase;
+
+        font-family: monospace;
+
+        font-size: 25px;
+
+} a:hover{
+    color: rgb(205, 5, 5); a.ex1:hover, a.ex1:active {color: red;}
+
+    .link { color: #FF0000; } /* CSS link color (red) */
+.link:hover { color: #ff0000; } /* CSS link hover (red) */
+
+}
+       
+
+
+/* visited link */
+a:visited { https://www.nasa.gov/
+    color: rgb(147, 152, 147);
+    .link { color: #797979; } /* CSS link color (red) */
+    .link:active { color: #797979; } /* CSS link hover (green) */
+
+    
+
+}
+
+
+
+        
